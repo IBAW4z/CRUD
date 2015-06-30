@@ -1,4 +1,26 @@
 ﻿<style>
+#formularz {
+	width: 360px;
+	text-align: right;
+}
+#formularz label {
+	width: 370px;
+	float: left;
+	text-align: right;
+}
+#formularz input {
+	width: 200px;
+}
+#formularz .radio {
+	width: 50px;
+}
+#formularz select {
+	width: 206px;
+}
+#formularz .submit {
+	width: 170px;
+}
+
 header {
     background-color:black;
     color:white;
